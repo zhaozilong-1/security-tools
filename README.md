@@ -4,4 +4,4 @@
 #下载依赖
 pip install requirements.txt
 
-#运行 app.py
+#运行 code.py
